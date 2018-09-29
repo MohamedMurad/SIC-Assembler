@@ -1,6 +1,6 @@
 # SIC-Assembler
 ## About
-> Implementation of a SIC Assembler using Java programming language, Read about [SIC machine](https://en.wikipedia.org/wiki/Simplified_Instructional_Computer)
+> Implementation of SIC Assembler using Java programming language, Read about [SIC machine](https://en.wikipedia.org/wiki/Simplified_Instructional_Computer)
 ## Application
 #### Development Prerequisites
 * Uderstanding SIC Machine
